@@ -1,0 +1,613 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"el",
+				"eleccion"
+			],
+			[
+				"cre",
+				"creditosGano"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"border-color",
+				"border-color"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"m",
+				"map"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"back-c",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"st",
+				"list-style-type"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"numero",
+				"numerob"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"Nume",
+				"Numero2"
+			],
+			[
+				"Nu",
+				"Numero1"
+			],
+			[
+				"N",
+				"Numero1"
+			],
+			[
+				"b",
+				"border	Attr"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"re",
+				"required	Attr"
+			],
+			[
+				"html",
+				"htmlentities"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Carl/Desktop/public_html/index.html",
+		"/C/Users/Carl/Desktop/sitio_web/CSS/1.css",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Carl/Desktop/public_html/assets/css/style.css",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Carl/Desktop/public_html/contact.php",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Carl/Desktop/wer.html",
+		"/C/Program Files/Sublime Text 3/Packages/Color Scheme - Default.sublime-package",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/C/xampp/htdocs/dashboard/ratio/index.html",
+		"/C/xampp/htdocs/dashboard/ratio/contact.php",
+		"/C/xampp/htdocs/dashboard/ratio/assets/js/form-contact.js",
+		"/F/Trabajo/Webcom/Template_file/ratio/contact.php",
+		"/F/Trabajo/Aluminio Arcen/V2.0/themeforest-4106987-porto-responsive-html5-template/HTML/css/demos/demo-one-page-agency.css",
+		"/F/Trabajo/Aluminio Arcen/V2.0/themeforest-4106987-porto-responsive-html5-template/HTML/css/theme.css",
+		"/F/Trabajo/Aluminio Arcen/V2.0/themeforest-4106987-porto-responsive-html5-template/HTML/demo-one-page-agency.html",
+		"/F/TUDAI/Web 1/Practica/2017/Juego Javascript Bootstrap/JuegoJavascriptV2.0160617/js/juegopoo.js",
+		"/C/xampp/htdocs/dashboard/WebTudaiBootstrap/js/js-abm.js",
+		"/C/xampp/htdocs/dashboard/WebTudaiBootstrap/index.html",
+		"/C/xampp/htdocs/dashboard/WebTudaiBootstrap/comparativa.html",
+		"/F/TUDAI/Web 1/Practica/2017/Juego Javascript Bootstrap/JuegoJavascriptV2.0160617/js/juego.js",
+		"/F/TUDAI/Web 1/Practica/2017/Juego Javascript Bootstrap/JuegoJavascriptV2.0160617/juegopoo.html",
+		"/C/xampp/htdocs/dashboard/WebTudaiBootstrap/css/style.css",
+		"/C/xampp/htdocs/dashboard/WebTudaiBootstrap/js/js-prueba.js",
+		"/C/xampp/htdocs/dashboard/WebTudaiBootstrap/nvidiaboostrap.html",
+		"/F/TUDAI/Web 1/Practica/2017/Pagina Web TUDAI V1.7/Entrega Final Pagina Web/comparativa.html",
+		"/F/TUDAI/Web 1/Practica/2017/Juego Javascript Bootstrap/index.html",
+		"/C/xampp/htdocs/dashboard/WebTudaiBootstrap/atiboostrap.html",
+		"/F/TUDAI/Web 1/Practica/2017/Pagina Web TUDAI BOOTSTRAP V1.0/JuegoJavascript/css/style.css",
+		"/F/TUDAI/Web 1/Practica/2017/Pagina Web TUDAI BOOTSTRAP V1.0/JuegoJavascript/index.html",
+		"/F/TUDAI/Web 1/Practica/2017/Pagina Web TUDAI BOOTSTRAP V1.0/JuegoJavascript/js/juego.js",
+		"/F/TUDAI/Web 1/Practica/2017/Pagina Web TUDAI BOOTSTRAP V1.0/index.html",
+		"/F/TUDAI/Web 1/Practica/2017/Pagina Web TUDAI V1.7/Entrega Final Pagina Web/css/style.css",
+		"/F/TUDAI/Web 1/Practica/2017/Pagina Web TUDAI V1.7/Entrega Final Pagina Web/index.html",
+		"/C/xampp/htdocs/dashboard/WebTudaiBootstrap/htaccess.html",
+		"/C/xampp/htdocs/dashboard/Web Tudai Bootstrap/.htaccess",
+		"/F/TUDAI/Web 1/Practica/2017/Pagina Web TUDAI BOOTSTRAP V1.0/css/style.css",
+		"/F/TUDAI/Web 1/Practica/2017/Pagina Web TUDAI BOOTSTRAP V1.0/atiboostrap.html",
+		"/C/xampp/htdocs/dashboard/Web Tudai Bootstrap/index.html",
+		"/C/xampp/php/pear/File/HtAccess.php",
+		"/C/xampp/htdocs/dashboard/Web Tudai Bootstrap/htaccess.html",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/css/style.css",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/index.html",
+		"/C/Users/Carl/Desktop/webnueva/indexboostrap.html",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V9 04-04-2017- Act Galeria/index.html",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V9 04-04-2017- Act Galeria/js/css3-mediaqueries.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT/css/style.css",
+		"/C/Users/Carl/Desktop/webnueva/css/style2.css",
+		"/C/Users/Carl/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/F/TUDAI/Web 1/Practica/2017/V1.7/Entrega JavasScript final/Entrega JavasScript final/index.html",
+		"/F/TUDAI/Web 1/Practica/2017/Javascript Parte 2/index.html",
+		"/F/TUDAI/Web 1/Practica/2017/Javascript Parte 2/style.css",
+		"/C/Users/Carl/Desktop/main.js",
+		"/C/Users/Carl/Desktop/index.html",
+		"/F/TUDAI/Web 1/Practica/2017/Javascript Parte 2/practicpjs2.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www-rtl/index-10.html",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/index-01.html",
+		"/F/TUDAI/Web 1/Practica/2017/Javascript Parte 2/js/practicoparte2.js",
+		"/F/Trabajo/Webcom/Template_file/ratio/index.html",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/index-02.html",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/gmap3.min.js",
+		"/F/TUDAI/Web 1/Practica/2017/Javascript Parte 2/practicoparte2.js",
+		"/F/TUDAI/Web 1/Practica/2017/V1.7/Entrega Final Pagina Web/index.html",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/scripts.js",
+		"/F/TUDAI/Web 1/Practica/2017/V1.7/Entrega Final Pagina Web/css/style.css",
+		"/F/TUDAI/Web 1/Practica/2017/V1.7/Entrega Final Pagina Web/js/scripts.js",
+		"/F/Trabajo/Webcom/Template_file/ratio/assets/js/scripts.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V9 04-04-2017- Act Galeria/contacts2.html",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/special-finance-2-contact.html",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/special-construction-2-contact.html",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/all.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/bootstrap.min.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/contact-form.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/contact-reservations-form.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/imagesloaded.pkgd.min.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.ajaxchimp.min.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/isotope.pkgd.min.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.appear.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.backgroundvideo.min.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.countTo.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.easing.1.3.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.downCount.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.fitvids.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.magnific-popup.min.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.localScroll.min.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.mb.YTPlayer.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.scrollTo.min.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.parallax-1.1.3.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.simple-text-rotator.min.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.sticky.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery.viewport.mini.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/jquery-1.11.2.min.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/masonry.pkgd.min.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/owl.carousel.min.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/placeholder.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/rev-slider.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/SmoothScroll.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/tiltfx.js",
+		"/F/Trabajo/Pagina Web/ESTUDIO DIT V10 10-05-2017 Plantilla Nueva/Rhythm-v.2.9.5/www/js/wow.min.js",
+		"/F/TUDAI/Web 1/Practica/2017/V1.7/Entrega Final Pagina Web/fonts/font-awesome.css",
+		"/F/TUDAI/Web 1/Practica/2017/V1.7/Entrega JavasScript final/Entrega JavasScript final/css/style.css",
+		"/F/TUDAI/Web 1/Practica/2017/V1.7/Entrega JavasScript final/Entrega JavasScript final/js/juego.js",
+		"/F/TUDAI/Web 1/Practica/2017/V1.6/Entrega JavasScript V1.6 020517/css/style.css",
+		"/F/TUDAI/Web 1/Practica/2017/V1.6/Entrega JavasScript V1.6 020517/index.html",
+		"/F/TUDAI/Web 1/Practica/2017/V1.5/Entrega JavasScript/css/style.css",
+		"/F/TUDAI/Web 1/Practica/2017/V1.5/Entrega JavasScript/index.html",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/Carlos V1.4 300417/Pagina Web TUDAI 010517/index.html",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/Entrega JavasScript/css/style.css",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/index.html",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/index_htmlvideo.html",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/bootstrap/css/bootstrap.css",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/piedrapapeltijera.html",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/css/stylefn.css",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/js/juego.js",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/piedrapapeltijera/piedrapapeltijera3.0/piedrapapeltijera/css/pipati.css",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/piedrapapeltijera/piedrapapeltijera3.0/piedrapapeltijera/js/juego.js",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/piedrapapeltijera/piedrapapeltijera3.0/piedrapapeltijera/piedrapapeltijera.html",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/piedrapapeltijera/piedrapapeltijera3.0/piedrapapeltijera/js/otropipatij.js",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/piedrapapeltijera/css/stylefn.css",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/piedrapapeltijera/html/piedrapapeltijera.html",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/piedrapapeltijera/index_htmlvideo.html",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/piedrapapeltijera/themeforest-19136745-ratio-material-design-agency-template (1)/Template_file/ratio/index_parallax.html",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/piedrapapeltijera/themeforest-19136745-ratio-material-design-agency-template (1)/Template_file/ratio/index_htmlvideo.html",
+		"/F/TUDAI/Web 1/Practica/2017/V1.4/piedrapapeltijerav2.0/piedrapapeltijera/css/pipati.css"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"theme",
+			".header-logo",
+			"value",
+			"seleccionarRadio",
+			"$('#revancha').attr(\"disabled\", false);\n      tablero.partidasGanadasPorLaComputadora();",
+			"p1",
+			"$('#revancha').attr(\"disabled\", true);",
+			"creditos_gano",
+			"creditos_pierdo",
+			"comp",
+			"partidas_ganadas_por_el_humano",
+			"partidasGanadas_por_la_computadora",
+			"partidas_ganadas_por_la_computadora",
+			"255",
+			"textarea",
+			"marca",
+			"Marca",
+			"marca",
+			"Marca",
+			"marca",
+			"Marca",
+			"marca",
+			"Marca",
+			"marca",
+			"Marca",
+			"informacion",
+			"required",
+			"decoracion",
+			"6",
+			"4",
+			"cont",
+			"intheader",
+			"image",
+			"ati",
+			"content",
+			");\n",
+			" \n",
+			"h1",
+			"href",
+			"Header add Access-Control-Allow-Origin",
+			"access",
+			"@",
+			"form",
+			"hover",
+			"class",
+			"id",
+			"texto1",
+			"map",
+			"map-section ",
+			"map-section js-active",
+			"news",
+			"f5",
+			"f5f5f5",
+			"google-map",
+			"map",
+			"#f5f5f5",
+			"f_facebook",
+			".contai",
+			"1.",
+			"navega",
+			".png",
+			"align",
+			"radio",
+			"cont",
+			"d",
+			"D",
+			"d",
+			"D",
+			"d",
+			"comp",
+			"scissors",
+			"stone",
+			"../",
+			"piedra",
+			"value=\"\"",
+			"top",
+			"egaw",
+			"egawonder",
+			"egaw",
+			"bg",
+			"cont",
+			"class=\"ati\"",
+			"d3",
+			"TOP",
+			"social",
+			"wow bounceInDown",
+			"awes",
+			"contform",
+			"conthome",
+			"contacto",
+			"formulario2",
+			"contact",
+			"contac",
+			"awe",
+			"font-fami",
+			"p",
+			"ffffff",
+			"pattern",
+			"font",
+			"nav",
+			"contact.php",
+			"contact",
+			"6ef5e3",
+			"#303a6e",
+			"gif",
+			"#303a6e",
+			"shado",
+			"shadoe",
+			"@",
+			"index",
+			"index_parallax",
+			"index",
+			"html",
+			"index_parallax.html",
+			"button",
+			"page-sc",
+			"href=\"#\"",
+			"target=\"_blank\"",
+			"test",
+			"#001788",
+			"#dd3333",
+			"fa-tablet",
+			"fa-li",
+			"fa-ta",
+			"dd3333",
+			"styl",
+			"imagen",
+			"tit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 24.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

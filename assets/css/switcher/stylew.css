@@ -1,0 +1,99 @@
+#style-switcher h2 a { background: #388278 none repeat scroll 0 0 }
+
+/*START SCROLL TO TOP*/
+.topcontrol {background: #388278 none repeat scroll 0 0;}
+/*END SCROLL TO TOP*/
+
+
+/*START MENU*/
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #61d2c3 !important;
+    background-color: transparent;
+}
+.menu-top li a:hover { color: #61d2c3!important }
+.navbar-default.menu-shrink li a:hover { color: #61d2c3 !important }
+.navbar-default .navbar-toggle .icon-bar { background-color: #388278 }
+/*END MENU*/
+
+
+.btn-light-bg {background: #388278 none repeat scroll 0 0;border: 2px solid #388278;}
+	
+.section-title h2 span { color: #388278 }
+
+.section-title div {background: #388278  none repeat scroll 0 0;}
+
+.btn-home-bg {background: #388278 none repeat scroll 0 0;border: 1px solid #388278;}
+
+.single_about:hover i {
+    background: #388278;
+    border: 1px solid #388278;
+}
+.single_about:hover h4 { color: #388278; }
+
+
+.progress-bar > span {background: #388278 none repeat scroll 0 0;}
+
+
+.single_feature i {background:#388278;}
+
+.carousel-indicators .active {
+    border: 1px solid #388278;
+    background: #388278 none repeat scroll 0 0;
+}
+.single_service i {color: #388278;}
+
+.our_work_menu ul li:hover, .our_work_menu ul li.active{
+	border-color: #388278 ;
+	color:#388278;
+}
+
+
+.counter i {color: #388278;}
+
+.counter:hover i {background: #388278 none repeat scroll 0 0;border: 1px solid #388278;}
+
+.single_team .social_link a:hover{
+	background: #388278;
+	border-color: #388278;
+}
+
+
+.signup_form input:focus {
+    border-color:#388278;
+}
+.color-two {
+    background: #388278;
+    color: #fff;
+}
+.color-three {
+    background: #388278;
+    color: #fff;
+}
+.pricing-btn  button {
+    background: #388278;
+    border: 1px solid #388278;}
+	
+.home_blog_text span {color: #388278;}	
+
+.buy_now {
+    background: #388278 none repeat scroll 0 0;
+}
+
+.contact input:focus,
+.contact textarea:focus {
+    border-color:  #388278;
+    box-shadow: none;
+    outline: 0 none;
+}
+.btn-contact-bg {
+	background: #388278 none repeat scroll 0 0 !important;
+	border: 1px solid #388278 !important;}
+
+
+
+
+
+
+
